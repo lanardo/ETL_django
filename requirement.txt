@@ -49,7 +49,7 @@ pandas==0.22.0
 psycopg2==2.7.3.2
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
-Pygments==2.2.0
+Pygments==2.7.4
 PyPDF2==1.26.0
 python-dateutil==2.6.0
 python-dotenv==0.7.1
