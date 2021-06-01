@@ -70,7 +70,7 @@ sqlalchemy-redshift==0.7.0
 tabula-py==1.0.0
 tinys3==0.1.12
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.26.5
 vine==1.1.4
 webencodings==0.5.1
 Werkzeug==0.12.2
